@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/robertrb63/staticweb.git/static/css/main.7f47035e.css",
+    "main.js": "/robertrb63/staticweb.git/static/js/main.fa7bcce6.js",
+    "index.html": "/robertrb63/staticweb.git/index.html",
+    "main.7f47035e.css.map": "/robertrb63/staticweb.git/static/css/main.7f47035e.css.map",
+    "main.fa7bcce6.js.map": "/robertrb63/staticweb.git/static/js/main.fa7bcce6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f47035e.css",
+    "static/js/main.fa7bcce6.js"
+  ]
+}
