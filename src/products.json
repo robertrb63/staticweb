@@ -1,0 +1,38 @@
+ [
+    {
+      "name": "Primero",
+      "oldPrice": "90",
+      "discount": "45",
+      "url": "https://picsum.photos/180"
+    },
+    {
+      "name": "Segundo",
+      "oldPrice": "60",
+      "discount": "38",
+      "url": "https://picsum.photos/180"
+    },
+    {
+      "name": "Tercero",
+      "oldPrice": "40",
+      "discount": "35",
+      "url": "https://picsum.photos/180"
+    },{
+      "name": "Cuarto",
+      "oldPrice": "70",
+      "discount": "50",
+      "url": "https://picsum.photos/180"
+    },
+    {
+      "name": "Quinto",
+      "oldPrice": "50",
+      "discount": "20",
+      "url": "https://picsum.photos/180"
+    },
+    {
+      "name": "Sexto",
+      "oldPrice": "100",
+      "discount": "80",
+      "url": "https://picsum.photos/180"
+    }
+  ]
+
